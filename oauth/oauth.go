@@ -22,5 +22,5 @@ func AuthenticateRequest(request *http.Request) {
 	if request==nil{
 		return
 	}
-
+	return
 }
