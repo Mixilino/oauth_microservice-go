@@ -3,7 +3,7 @@ package oauth
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/Mixilino/oauth_microservice-go/oauth/errs"
+	"github.com/Mixilino/helpers/errs"
 	"github.com/mercadolibre/golang-restclient/rest"
 	"log"
 	"net/http"
